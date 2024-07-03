@@ -1,2 +1,5 @@
 # GraduationProject
 This repository contains the code and documentation for a cybersecurity tool that combines information gathering and keylogging capabilities. The tool is designed to assist cybersecurity professionals in monitoring network activities, collecting system information, and capturing keystrokes to detect unauthorized access or malicious activities.
+
+# DISCLAIMER
+This project is designed solely for educational and research purposes. The content and materials presented herein are intended to simulate the characteristics of a "bad project" as a learning tool. The creators do not endorse or recommend the practices and methodologies depicted in this project for any real-world applications. Any resemblance to actual projects, living or dead, is purely coincidental. Users of this project should exercise caution and critical thinking, and they should not implement any of the strategies or techniques shown without thorough evaluation and adaptation to their specific needs. The creators disclaim any liability for any direct, indirect, incidental, or consequential damages arising out of the use of this project.
